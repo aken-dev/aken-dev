@@ -14,7 +14,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=dart,flutter,html,css,js,typescript,react,nextjs,nodejs,vue,next,mongodb,postgres,mysql,postman,powershell,py,raspberrypi,vscode,md,java,spring,eclipse,linux,npm,pnpm,flask,fastapi,docker,discord,git,github,bootstrap,jquery,aws,ubuntu,apple,windows,visualstudio" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=dart,flutter,html,css,js,typescript,react,nextjs,nodejs,vue,next,mongodb,postgres,mysql,postman,powershell,py,raspberrypi,vscode,md,java,spring,eclipse,linux,npm,pnpm,flask,fastapi,docker,discord,git,github,bootstrap,aws,ubuntu,apple,windows,visualstudio" /> <br /><br />
 
   ※Another skill and tools
   Codeigniter, Virtual Box and so on.
